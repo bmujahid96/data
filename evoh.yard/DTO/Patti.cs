@@ -18,6 +18,8 @@ namespace evoh.yard.DTO
         public decimal Total { get; set; }
         public string test{get;set;}
         public string tests{get;set;}
+        
+        public string samir{get;set;}
 
     }
 }
