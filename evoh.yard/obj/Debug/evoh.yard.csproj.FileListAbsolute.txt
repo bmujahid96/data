@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\bin\Debug\evoh.yard.exe.config
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\bin\Debug\evoh.yard.exe
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\bin\Debug\evoh.yard.pdb
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.Form1.resources
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.Forms.Customer.resources
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.Properties.Resources.resources
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.exe
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.pdb
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.Forms.Patti.resources
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.Forms.Item.resources
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.Forms.login.resources
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.Forms.Dashboard.resources
+C:\Users\Admin\source\repos\evoh.yard\evoh.yard\obj\Debug\evoh.yard.Forms.Reports.resources
